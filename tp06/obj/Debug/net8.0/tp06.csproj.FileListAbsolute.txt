@@ -1,0 +1,15 @@
+C:\Kuliah\kpl\tp06\tp06\bin\Debug\net8.0\tp06.exe
+C:\Kuliah\kpl\tp06\tp06\bin\Debug\net8.0\tp06.deps.json
+C:\Kuliah\kpl\tp06\tp06\bin\Debug\net8.0\tp06.runtimeconfig.json
+C:\Kuliah\kpl\tp06\tp06\bin\Debug\net8.0\tp06.dll
+C:\Kuliah\kpl\tp06\tp06\bin\Debug\net8.0\tp06.pdb
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.AssemblyInfoInputs.cache
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.AssemblyInfo.cs
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.csproj.CoreCompileInputs.cache
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.sourcelink.json
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.dll
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\refint\tp06.dll
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.pdb
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\tp06.genruntimeconfig.cache
+C:\Kuliah\kpl\tp06\tp06\obj\Debug\net8.0\ref\tp06.dll
